@@ -1,0 +1,5 @@
+  <add key="SMTP_USER" value="ipacsoftware@gmail.com" />
+    <add key="SMTP_PASSWORD" value="Pass_word" />
+    <add key="SMTP_HOST" value="smtp.gmail.com" />
+    <add key="SMTP_PORT" value="PortNO#" />
+    <add key="MAIL_FROM" value="ipacsoftware@gmail.com" />
